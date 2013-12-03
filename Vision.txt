@@ -1,0 +1,50 @@
+Vision Bokningsplattform för ett nystartat hotell/B&B
+
+Introduktion
+------------
+
+Ett nystartat hotell/B&B(Bed&Breakfast) behöver en egen bokningsplattform för rum som skall finnas tillgänglig på en egen webbplats.
+Den plattformen skall användas av besökare och eventuella kunder på den egna webbplatsen som komplement till de etablerade 
+webbbokningsmotorer såsom Booking.com eller Hotels.com
+
+Plattformen skall alltså fånga upp bokningar från kunder som hittat till hotellets webbplats och vara så effektiv och enkel som möjligt för kunden.
+Eftersom hotellet är nystartat och erbjuder endast ett tiotal rum finns det inget backend-system för rumshantering, bearbetning av bokningar hanteras manuellt av personalen.
+
+Användargrupper
+---------------
+
+Kund
+
+Bred målgrupp – alla som är ute och har vägarna förbi.
+Eftersom kunden kan vara vem som helst vill hotellet ha så enkelt bokningssystem som möjligt - allt skall kännas självklart.
+
+Personal - eventuellt en eller två anställda.
+Skall ta emot bokningar med epost och hantera dem.
+
+Intressenter
+------------
+
+Ägare/Manager - är intresserad av statistik.
+Hur många bokningar har kommit in genom den egna plattformen?
+Hur ser beläggningsgraden ut för en given period?
+
+Liknande System
+---------------
+
+Det finns en uppsjö av olika hotellbokningslösningar.
+Hotellägaren vill ha något liknande som http://generatorhostels.com/ har på deras webbplats, det uppfattar man som enkelt och effektivt
+
+Baskrav
+--------
+
+BK 1
+
+Kunder skall erbjudas ett effektivt, funktionellt och enkelt sätt att boka rum på hotellet genom deras egen webbplats, ett minimalistiskt gränssnitt eftersträvs
+
+BK 2
+
+Lösningen skall i sin enkelhet också vara så tillgänglig som möjligt, inga begränsningar får finnas vare sig med hänsyn till hårdvara, mjukvara eller bandbredd
+
+BK 3
+
+Bokningsplattformen skall integreras med hotellets webbsajt visuellt och tekniskt
