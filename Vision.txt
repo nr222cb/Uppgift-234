@@ -10,6 +10,10 @@ webbbokningsmotorer såsom Booking.com eller Hotels.com
 Plattformen skall alltså fånga upp bokningar från kunder som hittat till hotellets webbplats och vara så effektiv och enkel som möjligt för kunden.
 Eftersom hotellet är nystartat och erbjuder endast ett tiotal rum finns det inget backend-system för rumshantering, bearbetning av bokningar hanteras manuellt av personalen.
 
+Projektets begränsningar/framtida möjligheter - ett nystartat hotell behöver också ett backend system där man administrerar bokningarna, 
+fångar upp bokningar från de andra bokningskanalerna (t ex Booking.com) och styr tilldelning av rum 
+samt ett system för att ta emot betalningar - dessa kringsystem är omfattande och kan ej tas med initialt men kan bli aktuella i ett senare skede.
+
 Användargrupper
 ---------------
 
