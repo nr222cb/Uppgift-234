@@ -93,6 +93,10 @@ Användbarhet
 
 Tillgänglighet
 
+> Tillg 1
+
+> Inga begränsningar får finnas vare sig med hänsyn till hårdvara, mjukvara eller bandbredd för att kunna genomföra en bokning
+
 Stödbarhet
 
 Prestanda
